@@ -2,6 +2,50 @@
   padding: 0 2rem;
 }
 
+.footer {
+  position: relative;
+  width: 100%;
+  background-color: #00FF00;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle
+}
+
+.post {
+  padding-top: 2em;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.red {
+  background-color: #f00;
+  width: 200px;
+  height: 150px;
+  margin: 5px auto;
+}
+.blue { 
+  background-color: #0f0;
+  width: 200px;
+  height: 150px;
+  margin: 5px auto;
+}
+
+.subscribe {
+
+  border: 1px solid silver;
+}
+
+/* .tagLine {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color:#000;
+  top: 0;
+  left: 0;
+} */
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -12,21 +56,22 @@
   align-items: center;
 }
 
-.footer {
+/* .footer {
   display: flex;
   flex: 1;
   padding: 2rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
-}
+  position: relative;
+} */
 
-.footer a {
+/* .footer a {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-grow: 1;
-}
+} */
 
 .title a {
   color: #0070f3;
