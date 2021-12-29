@@ -6,7 +6,6 @@ import { Bar } from "react-chartjs-2";
 import Chart from 'chart.js/auto';
 import Card from "react-bootstrap/Card";
 
-
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -71,7 +70,7 @@ export default function Home() {
       <h1>12/29/2021: The Route</h1>
 
 
-      <img src="https://i.imgur.com/5MeS7ZA.png" max-width="100%" height="500px" />
+      <Image src="https://i.imgur.com/5MeS7ZA.png" width="500px" height="300px" />
 
       <p>
           When walking, this is the most pleasant path from my house to the office. When the lake is frozen, the preffered way is across the ice width wise. When the lake is open, I can take a watercraft.
@@ -83,7 +82,7 @@ export default function Home() {
     <div className={styles.post}>
       <h1>12/29/2021: The Motivation</h1>
 
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/autumn-on-lake-of-the-isles-mark-ryan.jpg"/>
+      <Image src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/autumn-on-lake-of-the-isles-mark-ryan.jpg" width="500px" height="300px"/>
 
       <p>
           All too often, the friction points in our life detract from the contents that they surround, which are actually quite wonderful and pure. The average American commute is full of rush and detatchment from the moment. From my old commute, wherein I primarily drove, I remember more about my frantically checking the time than I do about the city views on I94. I decided to start this blog to take a radically differnt attitude towards commuting - one that cherishes the moment, appreciates natural beauty, and ultimately improves the experience I have in the rest of my work day. To that end, I thought that gathering blog post and photograph artificats of my commutes and share them publicly would not only be a fun thing to share with friends and family, but would drive me to achieve the goals that I have in a commute. In addition to the blog posts, you will see that I have started a log of commute types - that is in order to stay away from the mundane, you need to take radical approaches to things in life, and switching up the commute medium is going to be a good thing for this endeavor. Today on the chart, for example, you can see that I have predominatly ski'd on my new commute and it has been oh so sweet.
